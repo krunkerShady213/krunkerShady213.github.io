@@ -2133,8 +2133,6 @@ td[style*="#fff"] {
     font-family: 'Material Icons';
 }
 
-/*fuck tracers and stealers, you know who you are*/
-
 #menuHolder[style*="block"] #hiddenClasses {
     display: flex !important;
     flex-direction: column;
